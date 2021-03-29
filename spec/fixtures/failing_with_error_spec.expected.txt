@@ -1,0 +1,12 @@
+
+<DESCRIBE::>Failing with Error
+
+<IT::>errors
+
+<ERROR::>./spec/fixtures/failing_with_error_spec.rb:3:in `/': divided by 0 (ZeroDivisionError)
+
+<LOG::-Backtrace>./spec/fixtures/failing_with_error_spec.rb:3:in `foo'<:LF:>./spec/fixtures/failing_with_error_spec.rb:7:in `block (2 levels) in <top (required)>'
+
+<COMPLETEDIN::>0.64
+
+<COMPLETEDIN::>0.8554
